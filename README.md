@@ -1,5 +1,5 @@
 sinhala-dopple-chat/
-├── index.html          # <!DOCTYPE html>
+├── <!DOCTYPE html>
 <html lang="si">
 <head>
     <meta charset="UTF-8">
@@ -434,7 +434,7 @@ if ('serviceWorker' in navigator) {
             });
     });
 }
-└── README.md           # # සිංහල Dopple Chat
+└──  සිංහල Dopple Chat
 
 සිංහල භාෂාවෙන් AI සමග සංවාදයට හැකි වන නොමිලේ වෙබ් යෙදුමකි.
 
